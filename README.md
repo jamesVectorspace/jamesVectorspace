@@ -86,10 +86,10 @@
 <!--   <a href="mailto:david.ilyin.990218@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a> -->
-  <a href="https://discord.gg/N54x8wXs">
+  <a href="https://discord.gg/YXk4B7DG">
     <img src="https://img.shields.io/badge/Discord-YXk4B7DG?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://join.skype.com/invite/live:.cid.b2195e2b408d6d4b" target="_blank">
+  <a href="https://join.skype.com/invite/e5bmRlbrIJ0Y" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
 <!--   <a href="https://t.me/kendson" target="_blank">
