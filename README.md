@@ -87,9 +87,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a> -->
   <a href="https://discord.gg/N54x8wXs">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-YXk4B7DG?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://join.skype.com/invite/live:.cid.979cfe3c590a55e5" target="_blank">
+  <a href="https://join.skype.com/invite/live:.cid.b2195e2b408d6d4b" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
 <!--   <a href="https://t.me/kendson" target="_blank">
