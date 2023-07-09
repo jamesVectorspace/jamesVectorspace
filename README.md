@@ -19,9 +19,9 @@
 
  ## Contact me
 - 📫 How to reach me: 
-  skype ID: live:.cid.979cfe3c590a55e5 </br>
-  discord: https://discord.gg/N54x8wXs </br>
-  phoneNumber: +1 321 421 0742
+  skype ID: live:.cid.b2195e2b408d6d4b </br>
+  discord: https://discord.gg/YXk4B7DG </br>
+  phoneNumber: +1 206 809 1320
   
 
   <div>
