@@ -4,26 +4,35 @@
   <h1 align="center">Hi there! 👋</h1>
 </header>
 
-✨"Welcome to my GitHub repository! As a full stack developer, I'm excited to share my latest project with you. In this repository, you'll find a comprehensive collection of code and documentation that showcases my skills and expertise. Feel free to explore the code, ask questions, and provide feedback. Let's build something great together!"✨
-🤔 So what are you waiting for? Let's get coding!"
+I have 5 years of experience in web and AI engineering, as well as blockchain development. My main skills include JavaScript and TypeScript, PHP, Laravel, Node.js, Express.js, React.js, Vue.js, Angular, Nest.js, Python, Django, AI, ML, DL, and EVM. I am an innovative and talented web developer with a strong background in various programming languages and frameworks.
 
 <section align='left'>
+  <h1 font-weight="bold">
+    📮 How to reach me
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
+  </h1>
+  
+  <p align='center'>
+  <!--   <a href="mailto:david.ilyin.990218@outlook.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a> -->
+    <a href="mailto:james.liu.vectorspace@gmail.com">
+          <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
+    </a>
+    <a href="https://join.skype.com/invite/e5bmRlbrIJ0Y" target="_blank">
+      <img src='https://img.icons8.com/color/344/skype.png' height="40">
+    </a>
+  <!--   <a href="https://t.me/kendson" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a> -->
+  </p>
 
-## About me
-
-- 💬 Ask me about MERN Stack, NextJS, NestJS, MySQL, JavaScript, TypeScript, Laravel, Tainwind CSS, Sass/Scss.(I have     
-      experience in these fields but I am always looking to learning more.)
-- 🌱 I’m currently learning React-native and Machine Learning.
-- 💡 I strongly believe that coding has the power to solve problems and help people change the world for the better.
-- 🔭 I’m currently working as a freelancer.
-
- ## Contact me
+  ## Contact me
 - 📫 How to reach me: 
   skype ID: live:.cid.b2195e2b408d6d4b </br>
   discord: https://discord.gg/YXk4B7DG </br>
   phoneNumber: +1 206 809 1320
   
-
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -77,25 +86,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jamesVectorspace&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesVectorspace&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
-<h1 font-weight="bold">
-  📮 How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
 
-<p align='center'>
-<!--   <a href="mailto:david.ilyin.990218@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a> -->
-  <a href="mailto:james.liu.vectorspace@gmail.com">
-        <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
-  </a>
-  <a href="https://join.skype.com/invite/e5bmRlbrIJ0Y" target="_blank">
-    <img src='https://img.icons8.com/color/344/skype.png' height="40">
-  </a>
-<!--   <a href="https://t.me/kendson" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a> -->
-</p>
 </section>
 
 
