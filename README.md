@@ -86,8 +86,14 @@
 <!--   <a href="mailto:david.ilyin.990218@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a> -->
+  <a href="mailto:james.liu.vectorspace@gmail.com">
+        <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
+  </a>
   <a href="https://discord.gg/YXk4B7DG">
     <img src="https://img.shields.io/badge/Discord-YXk4B7DG?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://join.skype.com/invite/e5bmRlbrIJ0Y" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
   <a href="https://join.skype.com/invite/e5bmRlbrIJ0Y" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
