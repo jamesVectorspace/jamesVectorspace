@@ -7,11 +7,6 @@
 I have 5 years of experience in web and AI engineering, as well as blockchain development. My main skills include JavaScript and TypeScript, PHP, Laravel, Node.js, Express.js, React.js, Vue.js, Angular, Nest.js, Python, Django, AI, ML, DL, and EVM. I am an innovative and talented web developer with a strong background in various programming languages and frameworks.
 
 <section align='left'>
-  <h1 font-weight="bold">
-    📮 How to reach me
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-  </h1>
-  
   <p align='center'>
   <!--   <a href="mailto:david.ilyin.990218@outlook.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
