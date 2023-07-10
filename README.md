@@ -33,16 +33,4 @@ I have 5 years of experience in web and AI engineering, as well as blockchain de
   discord: https://discord.gg/YXk4B7DG </br>
   phoneNumber: +1 206 809 1320
 
-<!--Skill And More Information-->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jamesVectorspace&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesVectorspace&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-</div>
-
 </section>
-
-
-  
-## Support me
-
-If you like my work and want to support me, you can sponsor me on GitHub. Your support will enable me to focus more on open-source projects. Those contributions will help me continue to learn, grow, and contribute to the open-source ecosystem.
