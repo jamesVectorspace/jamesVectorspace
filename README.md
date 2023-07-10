@@ -22,10 +22,4 @@ I have 5 years of experience in web and AI engineering, as well as blockchain de
     </a> -->
   </p>
 
-  ## Contact me
-- 📫 How to reach me: 
-  skype ID: live:.cid.b2195e2b408d6d4b </br>
-  discord: https://discord.gg/YXk4B7DG </br>
-  phoneNumber: +1 206 809 1320
-
 </section>
